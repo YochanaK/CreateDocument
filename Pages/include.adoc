@@ -1,14 +1,16 @@
-= *Introduction*
+=== *Introduction*
 
-This is a basic AsciiDoc document.
+- This is a basic AsciiDoc document.
 
 image::Images:food.jpg[width=150]
 
-to BOLD use * between words *bold*
+- to BOLD use * between words *bold*
 
-to SLANT use _ between words _Slant_
+- to SLANT use _ between words _Slant_
 
-for number bullets use .
+- For URL give url with square brackets beside it and write name you wish to see  for that URL https://www.github.com[Github]
+
+- for number bullets use .
 
 . one
 .. one.one
@@ -16,7 +18,7 @@ for number bullets use .
 . two
 . three
 
-for bullets use *
+- for bullets use *
 
 * one
 ** one.one
@@ -45,7 +47,7 @@ use 4 ---- at begin and end
 For box color
 ----
 
-For table use table at top right side of screen select as many as you want
+- For table use table at top right side of screen select as many as you want
 
 .Desc of table
 [cols="1,1,2a"]
