@@ -1,0 +1,68 @@
+= *Introduction*
+
+This is a basic AsciiDoc document.
+
+image::Images:food.jpg[width=150]
+
+to BOLD use * between words *bold*
+
+to SLANt use _ between words _Slant_
+
+for number bullets use .
+
+. one
+.. one.one
+... one.one.one
+. two
+. three
+
+for bullets use *
+
+* one
+** one.one
+* two
+* three
+
+[IMPORTANT]
+--
+To mark as important
+--
+
+[TIP]
+--
+To mark as tip
+--
+use 4 ==== at begin and end
+
+====
+For box
+====
+
+use 4 ---- at begin and end
+
+----
+For box color
+----
+
+For table use table at top right side of screen select as many as you want
+
+.Desc of table
+[cols="1,1,2a"]
+|===
+|1st header |2nd header |3rd header
+
+|Column 1, row 1
+|Column 2, row 1
+|Column 3, row 1
+
+|Column 1, row 2
+|Column 2, row 2
+|Column 3, row 2
+
+|Column 1, row 3
+|Column 2, row 3
+|Column 3, row 3
+|===
+
+
+
