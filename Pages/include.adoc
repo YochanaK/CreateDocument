@@ -6,7 +6,7 @@ image::Images:food.jpg[width=150]
 
 to BOLD use * between words *bold*
 
-to SLANt use _ between words _Slant_
+to SLANT use _ between words _Slant_
 
 for number bullets use .
 
@@ -32,6 +32,7 @@ To mark as important
 --
 To mark as tip
 --
+
 use 4 ==== at begin and end
 
 ====
