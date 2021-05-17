@@ -1,0 +1,10 @@
+= Add new page
+
+:imagesdir: ../Images
+
+image:family.jpg[width=250]
+
+[TIP]
+--
+To remember
+--
