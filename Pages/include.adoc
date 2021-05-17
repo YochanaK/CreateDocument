@@ -1,8 +1,10 @@
+:imagesdir: ../Images
+
 === *Introduction*
 
 - This is a basic AsciiDoc document.
 
-image::Images:food.jpg[width=150]
+image:food.jpg[width=250]
 
 - to BOLD use * between words *bold*
 
