@@ -4,9 +4,9 @@
 
 image:family.jpg[width=250]
 
+image:ascii_table.jpg[width=3000]
+
 [TIP]
 --
 To remember
 --
-
-Hi There!!
