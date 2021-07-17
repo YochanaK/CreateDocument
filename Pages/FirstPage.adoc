@@ -1,1 +1,9 @@
-include::include.adoc[]
+= Introduction
+
+:imagesdir: ../Images
+
+Trying to create a index so it will be first page to point for index.
+= Add new page
+
+
+image:family.jpg[width=250]
