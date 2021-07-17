@@ -1,6 +1,6 @@
 :imagesdir: ../Images
 
-=== *Introduction*
+= 1st Section
 
 - This is a basic AsciiDoc document.
 

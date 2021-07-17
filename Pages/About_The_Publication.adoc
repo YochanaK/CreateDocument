@@ -1,0 +1,5 @@
+= About the publication
+
+The introduction typically describes the scope of the document and gives the brief explanation or summary of the document. It may also explain certain elements that are important to the essay if explanations are not part of the main text. The readers can have an idea about the following text before they actually start reading it.
+
+ln technical writing, the introduction typically includes one or more standard subsections: abstract or summary, preface, acknowledgments, and foreword. Alternatively, the section labeled introduction itself may be a brief section found side-by-side with abstract, foreword, etc. (rather than containing them).

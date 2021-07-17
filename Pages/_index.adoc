@@ -1,0 +1,18 @@
+= Try to create TOC
+:copyright: 2021 &copy; Yochana
+:doctype: book
+:revnumber: 1
+:revdate: July 2021
+:author: Yochana K
+:chapter-label: Section
+:sectnumlevels: 1
+:toc: left
+:toclevels: 3
+:content-type: Using
+
+:sectnums!:
+include::About_The_Publication.adoc[leveloffset=1]
+
+:sectnums:
+include::FirstPage.adoc[leveloffset=1]
+include::include.adoc[leveloffset=1]
