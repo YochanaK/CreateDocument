@@ -1,6 +1,6 @@
 :imagesdir: ../Images
 
-= 1st Section
+= First Section
 
 - This is a basic AsciiDoc document.
 
